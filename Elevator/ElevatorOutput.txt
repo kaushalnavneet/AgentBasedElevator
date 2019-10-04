@@ -1,0 +1,115 @@
+00:00:02:061:032 
+Requested Input: 5
+Port: elevator2
+Command(12=Up, 13=Down, 14=Stop): 12
+
+00:00:03:061:032 
+Requested Input: 5
+Port: elevator2
+Command(12=Up, 13=Down, 14=Stop): 14
+
+00:00:03:081:032 
+Requested Input: 5
+Port: elevator2
+Command(12=Up, 13=Down, 14=Stop): 12
+
+00:00:04:081:032 
+Requested Input: 5
+Port: elevator2
+Command(12=Up, 13=Down, 14=Stop): 14
+
+00:00:04:101:032 
+Requested Input: 5
+Port: elevator2
+Command(12=Up, 13=Down, 14=Stop): 12
+
+00:00:05:101:032 
+Requested Input: 5
+Port: elevator2
+Command(12=Up, 13=Down, 14=Stop): 14
+
+00:00:05:121:032 
+Requested Input: 5
+Port: elevator2
+Command(12=Up, 13=Down, 14=Stop): 12
+
+00:00:06:121:032 
+Requested Input: 5
+Port: elevator2
+Command(12=Up, 13=Down, 14=Stop): 14
+
+00:00:06:141:032 
+Requested Input: 5
+Port: elevator2
+Command(12=Up, 13=Down, 14=Stop): 12
+
+00:00:07:141:032 
+Requested Input: 5
+Port: elevator2
+Command(12=Up, 13=Down, 14=Stop): 14
+
+00:00:18:060:032 
+Requested Input: 2
+Port: elevator1
+Command(12=Up, 13=Down, 14=Stop): 12
+
+00:00:19:060:032 
+Requested Input: 2
+Port: elevator1
+Command(12=Up, 13=Down, 14=Stop): 14
+
+00:00:19:080:032 
+Requested Input: 2
+Port: elevator1
+Command(12=Up, 13=Down, 14=Stop): 12
+
+00:00:20:080:032 
+Requested Input: 2
+Port: elevator1
+Command(12=Up, 13=Down, 14=Stop): 14
+
+00:00:22:060:032 
+Requested Input: 0
+Port: elevator1
+Command(12=Up, 13=Down, 14=Stop): 13
+
+00:00:23:060:032 
+Requested Input: 0
+Port: elevator1
+Command(12=Up, 13=Down, 14=Stop): 14
+
+00:00:23:080:032 
+Requested Input: 0
+Port: elevator1
+Command(12=Up, 13=Down, 14=Stop): 13
+
+00:00:24:080:032 
+Requested Input: 0
+Port: elevator1
+Command(12=Up, 13=Down, 14=Stop): 14
+
+00:00:28:060:032 
+Requested Input: 7
+Port: elevator2
+Command(12=Up, 13=Down, 14=Stop): 12
+
+00:00:29:060:032 
+Requested Input: 7
+Port: elevator2
+Command(12=Up, 13=Down, 14=Stop): 14
+
+00:00:29:080:032 
+Requested Input: 7
+Port: elevator2
+Command(12=Up, 13=Down, 14=Stop): 12
+
+00:00:30:080:032 
+Requested Input: 7
+Port: elevator2
+Command(12=Up, 13=Down, 14=Stop): 14
+
+00:00:52:001:032 
+Requested Input: 201
+Port: elevator1
+Command(12=Up, 13=Down, 14=Stop): 14
+
