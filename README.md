@@ -1,5 +1,5 @@
 # AgentBasedElevator
-1. Add to a project in Eclipse (having C++ compiler).
+1. Add to a project in Eclipse (having gcc compiler).
 2. Add/Edit to input or AgentLogic text files. [How to Edit Steps are written in the project report]
 3. Once inpput changes are done, clean the project.
 4. Build and Run to execute ElevatorControlAgent.exe
